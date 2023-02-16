@@ -24,16 +24,16 @@ nltk.downloader.download('vader_lexicon')
 
 Stops words like rticles, prepositions, pronouns, conjunctions, punctuations are filtered out before doing the NLP analysis. To show a little example of how the model is actually working:
 
-``
-from nltk.classify import NaiveBayesClassifier (<br>)
-from nltk.corpus import subjectivity (<br>)
-from nltk.sentiment import SentimentAnalyzer (<br>)
-from nltk.sentiment.vader import SentimentIntensityAnalyzer (<br>)
-from tqdm.notebook import tqdm (<br>)
-#nltk.download('popular') (<br>)
-sid = SentimentIntensityAnalyzer() (<br>)
-#sentiment = sid.polarity_scores("This is the worst thing ever") (<br>)
-#print(sentiment)``
+```
+> from nltk.classify import NaiveBayesClassifier 
+> from nltk.corpus import subjectivity (<br>)
+> from nltk.sentiment import SentimentAnalyzer (<br>)
+> from nltk.sentiment.vader import SentimentIntensityAnalyzer (<br>)
+> from tqdm.notebook import tqdm (<br>)
+> sid = SentimentIntensityAnalyzer() (<br>)
+> sentiment = sid.polarity_scores("This is the worst thing ever") (<br>)
+> print(sentiment)
+```
 
 
 *Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O'Reilly Media Inc.*
