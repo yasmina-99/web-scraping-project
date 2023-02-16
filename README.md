@@ -50,4 +50,5 @@ You can check out my professional profile on Linkedin here: <a href="https://www
 
 *Richardson, L. (2007). Beautiful soup documentation. April.*
 
+![alt text](https://github.com/yasmina-99/web-scraping-project/blob/main/Beautiful-Soup-4-Pot-1.svg?raw=true)
 
