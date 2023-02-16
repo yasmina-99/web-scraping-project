@@ -36,8 +36,6 @@ Stops words like rticles, prepositions, pronouns, conjunctions, punctuations are
 ```
 
 
-*Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O'Reilly Media Inc.*
-
 ## Branches
 All the files are available on the main branch 
 
@@ -45,3 +43,11 @@ All the files are available on the main branch
 
 The project was designed and optimized by Yasmina Rocio 
 You can check out my professional profile on Linkedin here: <a href="https://www.linkedin.com/in/yasmina-rocio-luzardo/" target="_blank">Google</a>
+
+## Citations 
+
+*Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O'Reilly Media Inc.*
+
+*Richardson, L. (2007). Beautiful soup documentation. April.*
+
+
